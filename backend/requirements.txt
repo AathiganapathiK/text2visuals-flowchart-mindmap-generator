@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+cohere==5.5.7
+spacy==3.7.2
+rake-nltk==1.0.6
+nltk==3.9.1
